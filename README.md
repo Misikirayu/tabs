@@ -1,3 +1,3 @@
-#### IN ACTION
+#### tabs! react project
 
-[Portfolio](https://gatsby-strapi-portfolio-project.netlify.app/)
+
